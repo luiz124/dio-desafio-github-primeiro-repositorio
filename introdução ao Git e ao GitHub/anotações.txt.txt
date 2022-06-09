@@ -1,0 +1,27 @@
+                A (ENTRADA) E (SAIDA) VARIA DE ACORDO COM A LINGUAGEM                                
+                                                                                                            
+ENTRADA: informaçao importante para a resoluçao do problema     SAIDA:e o resultado final                   link para download do git: https://git-scm.com/download/win
+ 
+                             CMD: abre uma campo de comando
+
+DIR: abre a lista de tudo q o diretorio do usuario tem acesso                             OBS:no windows o tab tem a funçao de auto completar
+CD: possibilita a navegaçao entre as passtas dentro dos sistemas operacionais             OBS:se dps de um comando nada acontecer significa q foi bem executado
+CD /: permite a ida a base do diretorio q esta usando                                     OBS:> e um rediricionador de fluxo ele pega o aut put ou saida da funçao echo e joga num arquivo
+CD WINDOS: para entrar na pasta windos                                                    OBS: a (seta para cima) tem a funçao de ver o historico de comandos
+CD ..: para voltar um nivel                                                               OBS: control+l limpa a pagina no git
+CLS: limpar o terminal                                                                    OBS: sempre q for criar um link no github usa([Sintaxe Basica Markdown])
+ECHO: printa e rescreve o q vc escreveo                                                   
+DEL: deleta arquivos
+RMDIR: remove o repositorio com todos os arquivos dentro usar /S e /Q quando for excluir
+MKDIR: cria uma pasta
+PWD: mostra todo o caminho percorrido
+GIT INIT: possibilita q o git gerencie o codigo q esta na pasta
+LS -A:mostra arquivos ou (pastas) ocultos
+MV: possibilita a movimentaçao de arquivos
+GIT ADD: adiciona um arquivo
+GIT COMMIT -A: remove o aquivo de um commit
+GIT RESTORE --STAGED(NOME DO ARQUIVO): tira os arquivos da area de staged
+GIT STATUS: mostra o status do progama
+ECHO >: cria um arquivo
+
+ 
